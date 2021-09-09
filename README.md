@@ -8,4 +8,5 @@ second commit
 
 ## second header 
 
-changing a git file on my local device
+changing a git file on my local device and uploading it on github
+
